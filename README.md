@@ -102,20 +102,7 @@ a few things I find genuinely fascinating
 
 ---
 
-## `> ./next_mission.sh`
-
 <div align="center">
-  
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║  [ CURRENT ]  Controls Software Intern · CNRS/IN2P3 · IJCLab   ║
-║               PERLE Accelerator · EPICS · Containerisation     ║
-║                                                                ║
-║  [ TARGET ]   Technical Student · CERN                         ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
 
 <br/>
 

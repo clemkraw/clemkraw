@@ -104,8 +104,6 @@ a few things I find genuinely fascinating
 
 <div align="center">
 
-<br/>
-
 Targeting a 6–8 month technical studentship at CERN.
 Background in EPICS control systems and accelerator infrastructure.
 Reach out anytime.
@@ -113,8 +111,6 @@ Reach out anytime.
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/let's%20connect-0A66C2?style=for-the-badge&logo=rocket&logoColor=white)](https://linkedin.com/in/clement-krawiec)
-
-<br/>
 
 <sub><i>Somewhere between the kernel and the cosmos.</i></sub>
 

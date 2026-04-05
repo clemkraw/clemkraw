@@ -8,12 +8,12 @@
 
 # Clément K.
 
-<!--**Systems & DevOps · CNRS/PERLE · IJCLab**
+**Controls Software & Infra · CNRS/IN2P3 · IJCLab**
 <br/>
-<sub>First containerization of EPICS control systems on PERLE</sub>-->
+<sub>🪐 Scaling innovation beyond Earth’s limits</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=electron&logoColor=white)](https://linkedin.com/in/clement-krawiec)
-[![Email](https://img.shields.io/badge/email-CC3333?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:clement.krawiec@proton.me)
+[![Email](https://img.shields.io/badge/email-CC3333?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=300&color=0000000&center=true&vCenter=true&width=620&lines=%3E+I+care+about+what+runs+underneath;%3E+99.9997%25+the+speed+of+light.+Someone+has+to+run+the+infra.;%3E+Cooper+was+right.)](https://git.io/typing-svg)
 
@@ -36,8 +36,8 @@
 Hey. I'm Clément — a CS student from Paris who spends too much time
 thinking about how things work underneath.
 
-<!--Systems & DevOps  ·  CNRS/PERLE — IN2P3 | IJCLab · Particle Accelerator Infrastructure-->
 ```
+Systems & DevOps  ·  CNRS/IN2P3 | IJCLab · PERLE Particle Accelerator Infrastructure
 CS Student        ·  Université Paris Cité · Bachelor of Science (BSc) in Computer Science & Software Engineering
 Location          ·  Paris, Île-de-France · Open to on-site Geneva
 Profile pic       ·  Cooper. Make of that what you will.
@@ -75,10 +75,10 @@ Profile pic       ·  Cooper. Make of that what you will.
 
 ## `> cat /proc/experience`
 ```
-CNRS · IJCLab · PERLE accelerator                        Soon
+CNRS/IN2P3 · IJCLab · PERLE Particle Accelerator                        Current
   First Docker containerization of EPICS IOCs on PERLE
   Performance benchmarking on live accelerator infrastructure
-  Online service deployment · Control systems · Bare metal Linux
+  Online service · Control systems · Bare metal Linux
 ```
 
 ---
@@ -107,15 +107,14 @@ a few things I find genuinely fascinating
 <div align="center">
   
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║  [ SOON   ]  DevOps Intern · CNRS/IN2P3 · IJCLab              ║
-║              PERLE accelerator · control systems · Docker     ║
-║                                                               ║
-║  [ TARGET ]  Technical Student · CERN BE-CO                   ║
-║              containerisation · Rust · distributed systems    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════╗
+║                                                                ║
+║  [ CURRENT ]  Controls Software Intern · CNRS/IN2P3 · IJCLab   ║
+║               PERLE Accelerator · EPICS · Containerisation     ║
+║                                                                ║
+║  [ TARGET ]   Technical Student · CERN                         ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
